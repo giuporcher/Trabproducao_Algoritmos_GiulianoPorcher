@@ -55,6 +55,7 @@ int main()
 
                     if(operando_um < 0)
                     {
+                        // Descobri como dar cor à saída no terminal a partir de um código no site The Urban Penguin - https://www.theurbanpenguin.com/4184-2/                         
                         printf("\033[0;31m");
                         printf("Números negativos não podem ser calculados pela raiz quadrada do programa.\n"
                         "Digite um número positivo:\n");
