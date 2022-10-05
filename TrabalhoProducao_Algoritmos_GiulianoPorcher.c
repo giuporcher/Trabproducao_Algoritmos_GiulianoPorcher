@@ -35,6 +35,7 @@ int main()
         float operando_um, operando_dois;
         scanf("%d", &escolha);
 
+//Aprendi o funcionamento dos switch/case com o Ebook da LaSalle
         switch(escolha)
         {
             case 0:
