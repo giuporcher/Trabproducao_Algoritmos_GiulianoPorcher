@@ -1,7 +1,7 @@
 // Nome de usuário no GitHub: giuporcher
 // Link do repositório: https://github.com/giuporcher/Trabproducao_Algoritmos_GiulianoPorcher
 
-// O programa irá pedir para que o usuário escolha uma das operações listadas na lista, digitando o número correspondente da operação para que ela seja selecionada.
+// O programa irá pedir para que o usuário escolha uma das operações na lista, digitando o número correspondente da operação para que ela seja selecionada.
 // O programa então pedirá que o usuário coloque apenas 1 número, caso a operação escolhida seja uma raiz quadrada, ou 2 números, caso a operação seja as outras demais.
 // Os valores digitados serão escaneados pelo programa e com eles a operação escolhida anteriormente será feita. A saída será uma frase em vermelho (para destacar a resposta)
 // com a resposta da operação.
